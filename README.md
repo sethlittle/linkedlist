@@ -1,3 +1,2 @@
-# gradecalculator
 # linkedlist
 # linkedlist
